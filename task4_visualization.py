@@ -58,7 +58,7 @@ def main():
         charts_folder / "stories_by_category.png"
     )
 
-    plt.show()
+    # plt.show()
 
     plt.close()
 
@@ -88,7 +88,7 @@ def main():
         charts_folder / "average_score_by_category.png"
     )
 
-    plt.show()
+    # plt.show()
 
     plt.close()
 
@@ -118,7 +118,7 @@ def main():
         charts_folder / "average_comments_by_category.png"
     )
 
-    plt.show()
+    # plt.show()
 
     plt.close()
 
@@ -142,7 +142,7 @@ def main():
         charts_folder / "score_distribution.png"
     )
 
-    plt.show()
+    # plt.show()
 
     plt.close()
 
